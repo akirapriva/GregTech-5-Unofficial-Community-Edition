@@ -1,6 +1,10 @@
 GT5 Unofficial: Community Edition
 ===
 
+## NOTE
+
+This must be played with https://github.com/akirapriva/GT5uCE-Core
+
 ## About
 
 GT5-Unofficial is a decompiled and modified version of GT5.07.07. However the goal of the GT5u Community Edition is going on its own way for some content and remove the hard dependencies of GT:NH.
